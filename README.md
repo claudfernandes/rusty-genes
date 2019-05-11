@@ -1,3 +1,5 @@
+[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/minimithi)
+
 # Rusty Genes
 - Genetic algorithm implementations in Rust
 
@@ -38,3 +40,5 @@
 ## 6. Surface functions 
 - x * sin (4 * x) + 1.1 * y * sin ( 2 * y )
 - sin ( alpha * x) ^ 2  * sin ( alpha * y) ^ 2 * e ^ ( x / g + y / g)
+
+[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/minimithi)
