@@ -1,4 +1,7 @@
-[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/minimithi)
+# [🐳](https://mithi.github.io/deep-bluberry) [☕️](https://ko-fi.com/minimithi) [🧧](https://www.paypal.me/minimithi) [![Say Thanks!](https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg)](https://saythanks.io/to/mithi) 
+```
+33Mudy961bUk9zz35p68g9fE3uuHLRduRp
+```
 
 # Rusty Genes
 - Genetic algorithm implementations in Rust
@@ -41,4 +44,8 @@
 - x * sin (4 * x) + 1.1 * y * sin ( 2 * y )
 - sin ( alpha * x) ^ 2  * sin ( alpha * y) ^ 2 * e ^ ( x / g + y / g)
 
-[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/minimithi)
+# [🐳](https://mithi.github.io/deep-bluberry) [☕️](https://ko-fi.com/minimithi) [🧧](https://www.paypal.me/minimithi) [![Say Thanks!](https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg)](https://saythanks.io/to/mithi) 
+```
+33Mudy961bUk9zz35p68g9fE3uuHLRduRp
+```
+
