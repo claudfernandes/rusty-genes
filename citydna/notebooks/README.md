@@ -3,23 +3,18 @@
 | ----------------------------- |:-------------------------------:|
 | ![](../docs/gif/simC.gif)      | ![](../docs/gif/sim0.gif)        |
 
-# Installation and launch
+# Requirements
+- Python
+- Jupyter notebook or lab
+- bokeh
+- numpy
 
-## 1. [Install Miniconda](https://conda.io/docs/user-guide/install/index.html)
-## 2. Create environment
 ```
-$ conda update conda
-$ conda create --name rusty-genes
-$ source activate rusty-genes
-$ conda install jupyter bokeh numpy
-```
-
-## 3. Launch
-```
-$ source activate rusty-genes
 $ jupyter notebook
 ```
-## 5. Copy the following sample codes to Jupyter notebooks (see section below)
+
+You can copy the following sample codes to Jupyter notebooks
+which uses `city_plot.py` and `helpers.py` in this directory.
 
 # Sample codes for your jupyter notebook
 You can try the following examples on a Jupyter Notebook
