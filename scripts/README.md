@@ -1,10 +1,12 @@
-# VISUALIZATION AND ANIMATION
+
+# City Generation and Algorithm Visualization Animation
+- **IMPORTANT**: When running the simulation: use `debug_level = 1` to generate output `csv` file compatible with the helper scripts that you can use for algorithm visualization.
 
 # Requirements
 - Python
 - Jupyter notebook or lab
-- bokeh
-- numpy
+- Bokeh
+- Numpy
 
 ```
 $ jupyter notebook
