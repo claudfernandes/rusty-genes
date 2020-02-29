@@ -3,7 +3,7 @@
 ```bash
 $ cargo test -- --nocapture
 $ cargo build
-$ cargo run ../data/specs/specs1.csv ../data/cities/cities0.csv
+$ cargo run ./data/specs/specs1.csv ./data/cities/cities0.csv
 ```
 
 ![](../docs/img/docs2.png)
