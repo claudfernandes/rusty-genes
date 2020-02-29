@@ -4,7 +4,7 @@
 
 # Requirements
 - Python
-- Jupyter notebook or lab
+- Jupyter notebook or Jupyter lab
 - Bokeh
 - Numpy
 
@@ -31,7 +31,7 @@ from helpers import write_cities_csv, read_cities_csv, random_cities, circley_ra
 from city_plot import CityPlot, City
 
 def city_filename(i):
-    return "../data/cities/cities" + str(i) + ".csv"
+    return "../citydna/data/cities/cities" + str(i) + ".csv"
 
 def plot_cities_from_file(cities, i):
     cities = read_cities_csv(city_filename(i))
@@ -79,10 +79,10 @@ You can use the following code to see the history of the genetic algorithm
 
 ```python
 from helpers import simulate
-simulate("../data/cities/cities0.csv", "../data/output/output0.csv", sleep=0.0)
-simulate("../data/cities/citiesA.csv", "../data/output/outputA.csv", sleep=0.15)
-simulate("../data/cities/citiesB.csv", "../data/output/outputB.csv", sleep=0.2)
-simulate("../data/cities/citiesC.csv", "../data/output/outputC.csv", sleep=0.15)
+simulate("../citydna/data/cities/cities0.csv", "../citydna/data/output/output0.csv", sleep=0.0)
+simulate("../citydna/data/cities/citiesA.csv", "../data/output/outputA.csv", sleep=0.15)
+simulate("../citydna/data/cities/citiesB.csv", "../data/output/outputB.csv", sleep=0.2)
+simulate("../citydna/data/cities/citiesC.csv", "../data/output/outputC.csv", sleep=0.15)
 ```
 
 ## Example 3
